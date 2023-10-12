@@ -3,7 +3,7 @@
 
 ---
 
-### :man_technologist: Обо мне:
+### :man_technologist: About me:
 
 I'm a beginner web developer. My journey in it began back in 2017 when I entered college, but I started doing it seriously in December 2022 and signed up for web development courses at Peaksoft House. During my studies, I had an internship for 3 months where I was the Team-Lead of the frontend team, and have completed the LMS project. At the moment, my training on the course is completed and I am looking for a job, at the same time I became a mentor on the course and help beginners master web development!
 
@@ -17,7 +17,7 @@ I'm a beginner web developer. My journey in it began back in 2017 when I entered
 
 - :zap: I am one of the best students in the Peaksoft House Web Development course.
 
-- :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/gryyut) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](almazavas@gmail.com)
+- :mailbox: How to contact me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](almazavas@gmail.com)
 
 ---
 
@@ -30,8 +30,8 @@ I'm a beginner web developer. My journey in it began back in 2017 when I entered
 <!--     <!-- <a href="https://t.me/tehnomaniak07" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
     </a> -->
-    <a href="https://t.me/gryyut" target="_blank">
-      <img src="[https://cdn-icons-png.flaticon.com/512/3670/3670147.png](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)" width="40" height="40" alt="telegram"/>
+    <a href="https://t.me/gryuut" target="_blank">
+      <img src="https://static-00.iconduck.com/assets.00/telegram-icon-2048x2048-l6ni6sux.png" width="40" height="40" alt="telegram"/>
     </a> -->
 <!--     <a href="https://vk.com/f1ll_zzz" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
