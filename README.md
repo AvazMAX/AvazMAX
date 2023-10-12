@@ -17,14 +17,14 @@ I'm a beginner web developer. My journey in it began back in 2017 when I entered
 
 - :zap: I am one of the best students in the Peaksoft House Web Development course.
 
-- :mailbox: How to contact me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](almazavas@gmail.com)
+- :mailbox: How to contact me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:almazavas@gmail.com)
 
 ---
 
 ### 🤝 Social media:
 
   <div id="badges">
-    <a href="[https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9-%D1%84%D0%B8%D0%BB%D0%B8%D0%BC%D0%BE%D0%BD%D0%BE%D0%B2-2a0b07257/](https://www.linkedin.com/in/%D0%B0%D0%B2%D0%B0%D0%B7-%D0%B8%D0%B1%D1%80%D0%B0%D0%B8%D0%BC%D0%B1%D0%B5%D0%BA%D0%BE%D0%B2-18b134292/)" target="_blank">
+    <a href="https://www.linkedin.com/in/%D0%B0%D0%B2%D0%B0%D0%B7-%D0%B8%D0%B1%D1%80%D0%B0%D0%B8%D0%BC%D0%B1%D0%B5%D0%BA%D0%BE%D0%B2-18b134292/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
 <!--     <!-- <a href="https://t.me/tehnomaniak07" target="_blank">
@@ -43,7 +43,7 @@ I'm a beginner web developer. My journey in it began back in 2017 when I entered
 
 ---
 
-### 💻 Технологии:
+### 💻 Technologies:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
@@ -58,7 +58,7 @@ I'm a beginner web developer. My journey in it began back in 2017 when I entered
 
 ---
 
-### 🛠 Инструменты:
+### 🛠 Tools:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="canva" alt="canva" width="40" height="40"/>&nbsp;
