@@ -8,7 +8,7 @@
 I'm a beginner web developer. My journey in it began back in 2017 when I entered college, but I started doing it seriously in December 2022 and signed up for web development courses at Peaksoft House. During my studies, I had an internship for 3 months where I was the Team-Lead of the frontend team, and have completed the LMS project. At the moment, my training on the course is completed and I am looking for a job, at the same time I became a mentor on the course and help beginners master web development!
 
 <p align="center">
- <img width="600" src="[assets/github-snake.svg](https://res.cloudinary.com/practicaldev/image/fetch/s--O3hycoaa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j8wo9f1mou6g5469671h.gif)" alt="snake"/>
+ <img width="600" src="https://res.cloudinary.com/practicaldev/image/fetch/s--O3hycoaa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j8wo9f1mou6g5469671h.gif" alt="snake"/>
 </p>
 
 - :telescope: Was Team lead frontend team
