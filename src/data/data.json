@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "questionId": "1",
+      "questionValue": "ыва",
+      "questionOptions": [
+        {
+          "optionId": "1",
+          "option": "ывап",
+          "checked": false
+        },
+        {
+          "optionId": "c2984b5f-b307-44a3-8da6-57efa9df6277",
+          "option": "ывап",
+          "checked": false
+        },
+        {
+          "optionId": "941d64c9-6e8f-4173-9e3b-d050d20d0d4b",
+          "option": "ывап",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "questionId": "1",
+      "questionValue": "ыва",
+      "questionOptions": [
+        {
+          "optionId": "1",
+          "option": "ывап",
+          "checked": false
+        },
+        {
+          "optionId": "c2984b5f-b307-44a3-8da6-57efa9df6277",
+          "option": "ывап",
+          "checked": false
+        },
+        {
+          "optionId": "941d64c9-6e8f-4173-9e3b-d050d20d0d4b",
+          "option": "ывап",
+          "checked": false
+        }
+      ]
+    }
+  ]
+}

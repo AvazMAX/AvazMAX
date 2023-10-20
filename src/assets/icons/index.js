@@ -1,0 +1,9 @@
+export { ReactComponent as ClockIcon } from './clock.svg';
+export { ReactComponent as MapIcon } from './mapappoint.svg';
+export { ReactComponent as InstagramIcon } from './instagram.svg';
+export { ReactComponent as TelegramIcon } from './telegram.svg';
+export { ReactComponent as WhatsAppIcon } from './whatsapp.svg';
+export { ReactComponent as PhoneIcon } from './phone.svg';
+export { ReactComponent as ProfileIcon } from './profile.svg';
+export { ReactComponent as LogoMedCheck } from './logoMedCheck.svg';
+export { ReactComponent as SearchIcon } from './search.svg';

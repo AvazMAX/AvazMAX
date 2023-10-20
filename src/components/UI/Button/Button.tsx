@@ -1,10 +1,22 @@
-import React, { ReactNode } from 'react';
+import React from 'react';
 import { Button as MuiButton } from '@mui/material';
 
 interface ButtonProps {
-  children: ReactNode;
+  children: string;
+  variant?: 'contained' | 'outlined' | 'text';
+  type?: 'submit' | 'button';
+  onClick?: () => void;
 }
 
-export const Button: React.FC<ButtonProps> = ({ children }) => {
-  return <MuiButton variant="contained">{children}</MuiButton>;
+export const Button: React.FC<ButtonProps> = ({
+  onClick,
+  children,
+  type,
+  variant = 'contained'
+}) => {
+  return (
+    <MuiButton type={type} variant={variant} onClick={onClick}>
+      {children}
+    </MuiButton>
+  );
 };

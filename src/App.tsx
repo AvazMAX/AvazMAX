@@ -2,13 +2,18 @@ import React from 'react';
 import './index.css';
 import { ThemeProvider } from '@mui/material';
 import { appTheme } from './assets/theme/theme';
-import { Button } from './components/UI/Button/Button';
+import { Test } from './layout/test/Test';
+import { Provider } from 'react-redux';
+import { store } from './store';
+import { TestAnswer } from './layout/test/TestAnswer';
+import { MainPage } from './pages/MainPage';
 
 const AppContent = () => {
   return (
     <div>
-      <h1>HEllo world</h1>
-      <Button>asdf</Button>
+      <MainPage />
+      <Test />
+      <TestAnswer />
     </div>
   );
 };
@@ -16,7 +21,9 @@ const AppContent = () => {
 export const App = () => {
   return (
     <ThemeProvider theme={appTheme}>
-      <AppContent />
+      <Provider store={store}>
+        <AppContent />
+      </Provider>
     </ThemeProvider>
   );
 };

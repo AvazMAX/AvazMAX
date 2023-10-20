@@ -29,6 +29,9 @@
     "SharedArrayBuffer": "readonly"
   },
   "rules": {
+    "func-names" : "error",
+    "no-await-in-loop": "off",
+    "strict": "off",
     "linebreak-style": "off",
     "prettier/prettier": [
       "error",
